@@ -1,0 +1,3 @@
+- **Data Preprocessing**: Cleaned tweet text, balanced data, and split into train, test, and validation sets. <br>
+- **Baseline & LSTM Model**: Developed a Naive Bayes baseline and an LSTM model with Attention using tokenization and Word2Vec embeddings  <br>
+- **BERT Classification**: Employed BERT for advanced tweet classification, covering tokenization, training, and testing stages.  <br>
